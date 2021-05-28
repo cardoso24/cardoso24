@@ -39,14 +39,6 @@ Dito isso, hoje estou dedicada em estudar programacao e estou cursando a carreir
 
 
 Voce pode me encontrar por ai, em outros canais:
+ link = "//linkedin.com/in/amanda-cardoso-930657145/"
 
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/amanda-cardoso-930657145/"
-
-
- [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/amandaC92234358"
+ link = "//twitter.com/amandaC92234358"

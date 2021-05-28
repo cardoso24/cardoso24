@@ -15,21 +15,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 -->
-Mi nombre es Amanda Cardoso, orgullosamente brasileña!
-soy estudiante de Ingeniería de Sistemas en la Universidad Tecnológica Nacional de Buenos Aires. Soy un gran entusiasta de la tecnología y me apasiona el mundo que la programación ha abierto en mi vida. Soy autodidacta, curiosa y me encanta resolver problemas. Buena mezcla, ¿no? Actualmente trabajo como analista de redes y estoy incursionando en la programación. 🔭
+
+Mi nombre es Amanda Cardoso, brasileña con orgullo, y también soy estudiante de Ingeniería en Sistemas en la Universidad Tecnológica Nacional (UTN) en Buenos Aires. Soy una gran entusiasta de la tecnología y me apasiona el mundo que la programación. Soy autodidacta, curiosa y me encanta resolver problemas. Buena mezcla, ¿no? Actualmente trabajo como analista de redes y estoy incursionando en la programación.
 
 Pero, ¿cómo empecé a programar? :rocket:
 
-En 2014 comencé a incursionar en la programación, aprendiendo un poco de lógica de programación C #, HTML, CSS y SASS. En 2016 comencé a estudiar Ingeniería de Sistemas y desde entonces fue amor a primera vista. Con el corazón dividido entre ciberseguridad, redes y programación, me encontré en esta mezcla de intereses diversos y hoy puedo decir que me estoy enamorando de JavaScript. :heart:
+En 2014 comencé a incursionar en la programación, aprendiendo un poco de lógica de programación, C#, HTML, CSS y SASS. En 2016 comencé a estudiar Ingeniería de Sistemas y desde entonces estoy enamorada de esta profesión.  Me encuentro con el corazón dividido entre redes y desarrollo/programación y puedo decir que me estoy enamorando de JavaScript :heart::heart:
 
-Dicho esto, hoy me dedico a estudiar programación y estoy siguiendo una carrera FullStack en Digital House. Además del curso, todavía estoy en la escuela de ingeniería y estoy abierta a todos los desafíos que me plantea la tecnología.
+Puedes encontrarme por ahí, en otros canales:
 
-
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/amancardosoo) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/aman.cardoso_/)
 
 
 ### Oi, tudo bem? 👋 [pt-br]
 
-Olá! Sou Amanda Cardoso, brasileira com orgulho, sou estudante de Engenharia em Sistemas na Universidade Tecnólogica Nacional de Buenos de Aires. Sou uma grande entusiaste de tecnologia e sou apaixonada pelo mundo que a programcao abriu na minha vida. Sou autodidata, curiosa e amo resolver problemas. Boa mistura, nao?  Atualmente trabalho como analista de redes e estou me aventurando com programacao.
+Sou Amanda Cardoso, brasileira com orgulho, e também estudante de Engenharia em Sistemas na Universidade Tecnólogica Nacional de Buenos de Aires. Sou uma grande entusiaste de tecnologia e sou apaixonada pelo mundo que a programcao abriu na minha vida. Sou autodidata, curiosa e amo resolver problemas. Boa mistura, nao?  Atualmente trabalho como analista de redes e estou me aventurando com programacao.
 
 Mas como eu comecei a programar? :rocket:
 
@@ -41,7 +41,7 @@ Dito isso, hoje estou dedicada em estudar programacao e estou cursando a carreir
 Voce pode me encontrar por ai, em outros canais:
 
 
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/amancardosoo) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/aman.cardoso_/)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=cardoso24)
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/amancardosoo) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/aman.cardoso_/)

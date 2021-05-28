@@ -40,7 +40,7 @@ Dito isso, hoje estou dedicada em estudar programacao e estou cursando a carreir
 
 Voce pode me encontrar por ai, em outros canais:
 
-![image](https://user-images.githubusercontent.com/56006568/119991943-64b22080-bfa0-11eb-9647-bba68fc0e2f7.png)
+<img src = "linkediin.com/esperience?username=amanda-cardoso-930657145/" />
 
  link = "//linkedin.com/in/amanda-cardoso-930657145/"
 
